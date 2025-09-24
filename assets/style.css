@@ -1,0 +1,45 @@
+header {
+  text-align: center;
+}
+
+#focaccia {
+  width: 50%;
+}
+#logo-cap {
+  background-color: #fdfbf1;
+  padding: 1em;
+  border-top: solid #fdf4d9;
+}
+
+main {
+  background: #ffffff;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+figure {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  border-radius: 20px;
+}
+
+figcaption {
+  text-align: center;
+  color: grey;
+}
+
+li {
+  line-height: 1.8;
+}
+footer {
+  margin-left: auto;
+}
